@@ -1,4 +1,6 @@
 # clipper-chatbot
+project link : https://apexinventor.github.io/clipper-chatbot/
+
 Clipper Chatbot: Your personalized college guide. Instantly access admission procedures, course details, and campus info. Simplifying your college search with AI precision.
 
 
